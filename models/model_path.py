@@ -1,0 +1,1 @@
+model_path = r":\Users\rahul\.ollama\models\blobs\sha256-3e38718d00bb0007ab7c0cb4a038e7718c07b54f486a7810efd03bb4e894592a"
