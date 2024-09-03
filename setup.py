@@ -15,8 +15,8 @@ def get_requirements(file_path:str) -> List[str]:
 setup(
     name='personalised chatbot using Gen AI',
     version='2.0.0',
-    author='Rahul Dey',
-    author_email='rahul.2002.dey@gmail.com',
+    author='Ankita Mandal',
+    author_email='megaesha783@gmail.com',
     packages=find_packages(),
     install_requires=get_requirements('requirements.txt')
 )
